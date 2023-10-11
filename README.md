@@ -6,8 +6,7 @@
 > [Muyan Yao](https://github.com/LeonParl) 
 -----
 
-Our implementation of PresSafe: Barometer-Based On-Screen Pressure-Assisted Implicit Authentication for Smartphones.
-(to be updated)
+Our implementation of PresSafe: Barometer-Based On-Screen Pressure-Assisted Implicit Authentication for Smartphones. 
 
 - This repository includes the implementation of the deep learning backbone network involved to extract features from the pre-processed user data. 
 - Should you have any concerns, feel free contact with me directly at muyanyao \at ieee.org
