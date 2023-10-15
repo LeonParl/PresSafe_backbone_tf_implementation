@@ -1,5 +1,5 @@
-<h1 align="center">PresSafe</h1>
-<h2 align="center">Barometer-Based On-Screen Pressure-Assisted Implicit Authentication for Smartphones</h2>
+<h1 align="center">PresSafe TF Implementation</h1>
+<h2 align="center">PresSafe: Barometer-Based On-Screen Pressure-Assisted Implicit Authentication for Smartphones</h2>
 
 > unlike many works that use PyTorch as their backend, this project is implemented using TensorFlow 2.x. <br>
 > the contributor of the code: 
